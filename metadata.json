@@ -1,0 +1,15 @@
+{
+  "name": "jvelasquez-gitversion",
+  "version": "0.1.0",
+  "author": "Javier Velasquez Lopez",
+  "summary": "Git Version Module",
+  "license": "Apache-2.0",
+  "source": "https://github.com/jvelasquez/puppet_gitversion.git",
+  "project_page": "https://github.com/jvelasquez/puppet_gitversion",
+  "issues_url": "https://github.com/jvelasquez/puppet_gitversion/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ],
+  "data_provider": null
+}
+
